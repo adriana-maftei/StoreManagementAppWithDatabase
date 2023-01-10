@@ -2,7 +2,7 @@ This project is a Store Management application for a music store made with Visua
 
 ⇒ secure user authentication window
 
-![login](https://user-images.githubusercontent.com/115250887/211599509-515d99a7-5c2f-489c-96fa-e22fb2892fd2.PNG)
+![login](https://user-images.githubusercontent.com/115250887/211603621-3840be8f-62eb-457c-bab0-f685245f0a99.PNG)
 
 ⇒ inventory system where items can be added, edited or deleted; Also I implemented an option to change the password and it will be automatically updated to the database
 
@@ -21,3 +21,6 @@ This project is a Store Management application for a music store made with Visua
 ![billDtb](https://user-images.githubusercontent.com/115250887/211599499-2528a1b1-bf6d-444d-becc-6abd5eb72970.PNG)
 
 ![itemDtb](https://user-images.githubusercontent.com/115250887/211599508-48743adf-0937-4c2d-a456-d28922dcea0e.PNG)
+
+⇒ launch pop-up window with loading UI
+![loading](https://user-images.githubusercontent.com/115250887/211603617-f426c9b6-4ae8-416e-9c5c-335a9b41e4a6.PNG)
