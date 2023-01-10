@@ -23,4 +23,5 @@ This project is a Store Management application for a music store made with Visua
 ![itemDtb](https://user-images.githubusercontent.com/115250887/211599508-48743adf-0937-4c2d-a456-d28922dcea0e.PNG)
 
 ⇒ launch pop-up window with loading UI
+
 ![loading](https://user-images.githubusercontent.com/115250887/211603617-f426c9b6-4ae8-416e-9c5c-335a9b41e4a6.PNG)
